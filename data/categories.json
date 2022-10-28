@@ -3,7 +3,7 @@
         "id": 1,
         "name": "C programming",
         "instructor": "Danny",
-        "img": "z",
+        "img": "https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png",
         "detail": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.Our C tutorials will guide you to learn C programming one step at a time.",
         "time": "5 hours",
         "quiz": "10+",
